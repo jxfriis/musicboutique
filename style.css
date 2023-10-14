@@ -113,4 +113,21 @@ button:hover{
     nav{
         text-align: center;
     }
+
+    .btn{
+        margin-left: 0;
+    }
+
+    .welcome{
+        justify-content: center;
+        width: 100%;
+    }
+
+    .content-left{
+        margin-left: 0;
+    }
+
+    .content-right{
+        display: none;
+    }
 }
